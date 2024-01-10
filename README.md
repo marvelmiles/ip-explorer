@@ -1,6 +1,6 @@
  ## [IP-Explorer](https://cozy-granita-a65274.netlify.app/)
  
-This project is a frontend development app built with react. IP-Explorer is a lightweight website for retrieving IPv4/IPv6 address details, including a built-in theme picker. Data fetching is handled by axio and user interface is built with styled-components.
+This project is a frontend development app built with [react](https://react.dev). IP-Explorer is a lightweight website for retrieving IPv4/IPv6 address details, including a built-in theme picker. Data fetching is handled by axio and user interface is built with styled-components.
 
 ### Technologies (Most Relevant)
 
